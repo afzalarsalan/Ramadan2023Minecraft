@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
+hash = "9ec81d3625f9af38cf75a2988906498e185dcbb10b05a26b04093149649f486e"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/radon.pw.toml"
-hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+hash = "9839255ea4c4be3d7b3ff48f78bdfba566891759fc7cbfb5844506719a237665"
 metafile = true
 
 [[files]]
@@ -312,12 +312,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "781896701dc26fd89483325914ee4343c427043893d8bb29bea527c149ab6029"
+hash = "424e0713b38b6c20a3d4e258c7a5a92856526faee10961f1795e4c07f486edf3"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
+hash = "17b8e8533a46c1aceee6165392a6e937b3507feb774f2b6dff9e3c9799bc05ea"
 metafile = true
 
 [[files]]
