@@ -16,6 +16,11 @@ hash = "19dac6568f82ea6cd46ae33a380e0103500e2cf539bb7e9f8dc05ac7821ae7db"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "9332d7895d9a9d8827aa4de02b1c96884fec9402cc66bd90e64f64bfc0c5f814"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "3a15bcaf0a169b950a7ffbc13e9d645c6147be7bd81e57ca557537c74902c431"
 metafile = true
 
 [[files]]
@@ -216,6 +226,11 @@ hash = "bf5a8adcc9da7a2008178330ce010417fd1423036ce12b249d5c1ee907091e39"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "4610d249c3ee274fc579e3d507e78249777d34a231eb1873f297029f866d7a67"
+metafile = true
+
+[[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "51ea2cbc4057449678ab835c6a9ac4f6f5974aa36168a2236f5d16d13de40158"
 metafile = true
@@ -223,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
-metafile = true
-
-[[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "b67e3d4d7a7303cb8b716b76576a23ae5f93398e2b4b5afa9045587c16d40771"
 metafile = true
 
 [[files]]
@@ -371,11 +381,6 @@ hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
 metafile = true
 
 [[files]]
-file = "mods/theurgy.pw.toml"
-hash = "227384da173425caea554db8ae14f9433d344402a1916f5fb22f330924c7c06c"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "9834a4b5fb65eac236a935bcddd5c0a56632b8be5270fd80d3a838533584c2a2"
 metafile = true
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/ultimate-car-mod.pw.toml"
 hash = "b4b6f97ff8be070b5c6e697690c69758785547345e92c6e0238a377974f85583"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-plane-mod.pw.toml"
+hash = "0bfa15e69495fb4e7e47dc458412b27c2c0c719f22550d2ba7d9b5a6a0a9bbc0"
 metafile = true
 
 [[files]]
