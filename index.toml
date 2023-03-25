@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "a9ca0c62411aff48b03e314920cea2b6d68aff42fabbb4781b1832979463f367"
+hash = "5edb236d9a852059bc4abae2219903c4db30837897ac0bee60734bf498a5708d"
 metafile = true
 
 [[files]]
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "392c951a23935338bcbc689555fcd6a035a93d0475515ab1b61faddaf9c6b0f8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "ae2a9dc25c62aea3c0ce9666dc3fe28a4e53e43ad8e2cb9f2ac527887cbd5980"
 metafile = true
 
 [[files]]
@@ -177,12 +182,17 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "a6e8f8bfe71a57560b55ea4329422db95acaabeb1c5bcd1b6fd2e10f0d67eb81"
+hash = "f3a1626d48c76e7440f6133e114847216d228b88fce631d28e7c8289d2a8f523"
 metafile = true
 
 [[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "705a1b8bd910fef1d3e31687c8af61898ed64ab9e5e04a1f467a1c5368b66acb"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
 metafile = true
 
 [[files]]
@@ -217,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "854cb9f31d256c07720cfa8fce8fd19ef0477a27f4dd88f1403bc102984b7345"
+hash = "1444d40cc37f43dbbd733beb1f0be5c6730f6ff6d42e6739db77fc6b702378f1"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "bf5a8adcc9da7a2008178330ce010417fd1423036ce12b249d5c1ee907091e39"
+hash = "c04c5cc4ff7d0ef74ebab5f1040a330070bbbd8de09f87862e1aff44ec272b0f"
 metafile = true
 
 [[files]]
@@ -272,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "147e4b537c61350cf5736868390c7595024a0c0c0e35f1c89e79a95a2797d1ef"
+hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
 metafile = true
 
 [[files]]
@@ -298,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9912429ceb584b346569b027c42365b068884fe560e8eef408e754d495254196"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "612310ddf6d4aa195642bed756d25b7fff832cb6c2c7b5fbf8fd5f1f9b1852d1"
 metafile = true
 
 [[files]]
@@ -352,12 +367,12 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "9ece5fcdbca24eb342f60f67111ac437cd27b99282c68eb8b4ba2cc28607a179"
+hash = "ca6c3b6004632fadb347cf61391d22b210452e6b339d5a9b0e5c6f13808bec40"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "1ec46b1d1ed3312d8cca03df6c0df8d19bda70af4808c75e3d86ca0420c177a2"
+hash = "b6085150a1fa5f104f1b2719139213c400d213706654b4299f9871f2913eb168"
 metafile = true
 
 [[files]]
@@ -368,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "99841912147fd4c0ce8097f7b653e60632deff2b79ce3aadff112319aff1baec"
-metafile = true
-
-[[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
 metafile = true
 
 [[files]]
