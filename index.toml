@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
+
+[[files]]
+file = "global_packs/required_data/SurvivalLegends_v1.zip"
+hash = "145697259269e8fb248c9ed094a16dd76c98ffb1033119786911e8842767fd87"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "5edb236d9a852059bc4abae2219903c4db30837897ac0bee60734bf498a5708d"
 metafile = true
@@ -21,16 +29,6 @@ hash = "9332d7895d9a9d8827aa4de02b1c96884fec9402cc66bd90e64f64bfc0c5f814"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "a33f941fc49859480dad693cbd215a74c222b9c180fceba293de960bbe31dbc9"
-metafile = true
-
-[[files]]
-file = "mods/autoreglib.pw.toml"
-hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
@@ -41,28 +39,8 @@ hash = "89bc13b8102eb8778740b19459e92dd745b6e6ea33795f56fb4be336d3b02766"
 metafile = true
 
 [[files]]
-file = "mods/blue-skies.pw.toml"
-hash = "453fcfde78387fcda8cf097a9f4457d0fbaf717d23ac8202ced23f5ac4bea8b4"
-metafile = true
-
-[[files]]
-file = "mods/blueprint.pw.toml"
-hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-hash = "3a15bcaf0a169b950a7ffbc13e9d645c6147be7bd81e57ca557537c74902c431"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
-metafile = true
-
-[[files]]
-file = "mods/citadel.pw.toml"
-hash = "392c951a23935338bcbc689555fcd6a035a93d0475515ab1b61faddaf9c6b0f8"
 metafile = true
 
 [[files]]
@@ -91,11 +69,6 @@ hash = "9b24b055291bcfab10c0d38ffabfa2b29372d570851169d060eb068aaf28068e"
 metafile = true
 
 [[files]]
-file = "mods/corgilib.pw.toml"
-hash = "df5610e72ef4de2c6823362ea683097379b57556554732c5f314d22f1139b7c6"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
 metafile = true
@@ -106,28 +79,13 @@ hash = "f34f82264fa68b8835a32e8f6ed507bd1cd2944a10cc566358ae2351e7b29437"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
-metafile = true
-
-[[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "aa09fb6a8264c22bbc51a5bc97dfeca0bb64fdca4c7cd3a56813185ac3eeac41"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "d6c697bcdae1ccd5ce538db59329bfae414cb99ac0eb2eae8d289c939584875b"
-metafile = true
-
-[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "bb9b6c5b99e4fa58c8d89b3d1dff7aae355d08d5c5c30a7a022cc5d041ca4998"
 metafile = true
 
 [[files]]
-file = "mods/dungeon-crawl.pw.toml"
-hash = "d30f94aab18d9ad671e52d77c8b9b081c46d9084a7e8177d03b4723e1e094a4e"
+file = "mods/drp-global-datapack.pw.toml"
+hash = "bb22a44615e4d159c43e85a1aa2325ffcd0930182418a32269f1ad12fda251bd"
 metafile = true
 
 [[files]]
@@ -158,11 +116,6 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "bfa38e9d294d0225683119393a782dc0193ee38950c670fd19b550c0af0ba15e"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
@@ -231,11 +184,6 @@ hash = "c04c5cc4ff7d0ef74ebab5f1040a330070bbbd8de09f87862e1aff44ec272b0f"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "4610d249c3ee274fc579e3d507e78249777d34a231eb1873f297029f866d7a67"
-metafile = true
-
-[[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "51ea2cbc4057449678ab835c6a9ac4f6f5974aa36168a2236f5d16d13de40158"
 metafile = true
@@ -262,12 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "9ec81d3625f9af38cf75a2988906498e185dcbb10b05a26b04093149649f486e"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "eb92c43a200e611718bfba3e9f5d971faeeaf6ff5164f284fe65a192d1542d6b"
+hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
 metafile = true
 
 [[files]]
@@ -281,13 +224,8 @@ hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "340220de7bc4d0542c8e3ace4696d60b5b5f7fa19cd9aee3c9870d8acae36de5"
-metafile = true
-
-[[files]]
 file = "mods/radon.pw.toml"
-hash = "9839255ea4c4be3d7b3ff48f78bdfba566891759fc7cbfb5844506719a237665"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
 metafile = true
 
 [[files]]
@@ -303,16 +241,6 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9912429ceb584b346569b027c42365b068884fe560e8eef408e754d495254196"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "612310ddf6d4aa195642bed756d25b7fff832cb6c2c7b5fbf8fd5f1f9b1852d1"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures.pw.toml"
-hash = "a2cff7b844941e7be4af4fe2451e54687e428043b9af0bf3e9327e82b59c829e"
 metafile = true
 
 [[files]]
@@ -332,12 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "424e0713b38b6c20a3d4e258c7a5a92856526faee10961f1795e4c07f486edf3"
+hash = "781896701dc26fd89483325914ee4343c427043893d8bb29bea527c149ab6029"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "17b8e8533a46c1aceee6165392a6e937b3507feb774f2b6dff9e3c9799bc05ea"
+hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
 metafile = true
 
 [[files]]
@@ -356,11 +284,6 @@ hash = "17a2b4189e483db332f550a133a153aa841d666ab7cf2923ae5573f60d25979f"
 metafile = true
 
 [[files]]
-file = "mods/structure-gel-api.pw.toml"
-hash = "69e0946bfa36ce003d3b3582b5332ea0b89541eefe6083f9cdde1e4f9b02d527"
-metafile = true
-
-[[files]]
 file = "mods/structurize.pw.toml"
 hash = "ca6c3b6004632fadb347cf61391d22b210452e6b339d5a9b0e5c6f13808bec40"
 metafile = true
@@ -371,18 +294,8 @@ hash = "b6085150a1fa5f104f1b2719139213c400d213706654b4299f9871f2913eb168"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
-metafile = true
-
-[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "99841912147fd4c0ce8097f7b653e60632deff2b79ce3aadff112319aff1baec"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
 metafile = true
 
 [[files]]
@@ -403,26 +316,6 @@ metafile = true
 [[files]]
 file = "mods/universal-grid.pw.toml"
 hash = "1e060a49ad1a110d0d8fdccd48357022725ae3320e6b4ba57fb81b53d8dabe22"
-metafile = true
-
-[[files]]
-file = "mods/upgrade-aquatic.pw.toml"
-hash = "2645152342d80f0af76602c8c514dcdfff28f742234ccefec361f7f6ee5b69b9"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "8d2c6294be2f0e0efcc0e7605456350cc061c4e7dac921c895dd3510d58cdbf5"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "c3c796e10b9e241b3e87404f7e239af7508aa62c3cfc0287d4934f182d4cf983"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "489b2fd435af078d04c9f6cab84f6f5ece068921f055bfd56ec6d0a214ba6b7d"
 metafile = true
 
 [[files]]

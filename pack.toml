@@ -1,16 +1,17 @@
 name = "Ramadan 2023 Sesh"
 author = "Arsalan Afzal"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "186e62c644c253ea3001cb64a0b0a3858b669389de63bd9c5984acf51c84ccc1"
+hash = "bc5532ac06793be4e33125dc4e4d89d53fa42f2024a3b068915d94d952604ed2"
 
 [versions]
-forge = "43.2.7"
+forge = "43.2.8"
 minecraft = "1.19.2"
 
 [options]
 acceptable-game-versions = ["1.19", "1.19.2", "1.19.3", "1.19.4"]
+datapack-folder = "global_packs"
