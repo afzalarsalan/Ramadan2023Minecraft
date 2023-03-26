@@ -6,11 +6,6 @@ hash = "5edb236d9a852059bc4abae2219903c4db30837897ac0bee60734bf498a5708d"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "19dac6568f82ea6cd46ae33a380e0103500e2cf539bb7e9f8dc05ac7821ae7db"
 metafile = true
@@ -177,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
-hash = "103bc0f527843010c5b4bf3b9f43697e4930b720ee0b4321396d35223f139457"
+hash = "03eda3cb7e6a184e591d5853b12125a8b26634363ebfd00f069f177bbe190421"
 metafile = true
 
 [[files]]
