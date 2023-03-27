@@ -304,6 +304,11 @@ hash = "f731f66e51768da8df2a3c0c6c82f847867037d4868bb05de257377f002bcf9f"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "9834a4b5fb65eac236a935bcddd5c0a56632b8be5270fd80d3a838533584c2a2"
 metafile = true
