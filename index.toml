@@ -5,8 +5,16 @@ file = "config/global_data_and_resourcepacks.toml"
 hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
 
 [[files]]
-file = "global_packs/required_data/SurvivalLegends_v1.zip"
-hash = "145697259269e8fb248c9ed094a16dd76c98ffb1033119786911e8842767fd87"
+file = "global_packs/required_data/Dodrio_Fixer.zip"
+hash = "fd576a54b6c71b395262791edab21e3048effa327ebc25aadfb53820a550070f"
+
+[[files]]
+file = "global_packs/required_resources/Basemon-Replacement.zip"
+hash = "802513fdd00461f6976fd661ebbdb869aaabb76aa74752720c384f7e6789f602"
+
+[[files]]
+file = "global_packs/required_resources/LegendariesV1.1a.zip"
+hash = "3efe33724f67e24a3064d4faaea3fd2f121963f513d8d5e79f075375910074fa"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
