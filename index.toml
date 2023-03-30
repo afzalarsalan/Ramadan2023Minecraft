@@ -9,12 +9,8 @@ file = "global_packs/required_data/Dodrio_Fixer.zip"
 hash = "fd576a54b6c71b395262791edab21e3048effa327ebc25aadfb53820a550070f"
 
 [[files]]
-file = "global_packs/required_data/LegendariesV1.1a.zip"
-hash = "3efe33724f67e24a3064d4faaea3fd2f121963f513d8d5e79f075375910074fa"
-
-[[files]]
-file = "global_packs/required_resources/Basemon-Replacement.zip"
-hash = "802513fdd00461f6976fd661ebbdb869aaabb76aa74752720c384f7e6789f602"
+file = "global_packs/required_data/LegendariesV1.1b.zip"
+hash = "453dec072531f9d9b35274c5d2c1c6cad9a079315adc8e98e0663238fa9d0785"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -188,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "c04c5cc4ff7d0ef74ebab5f1040a330070bbbd8de09f87862e1aff44ec272b0f"
+hash = "5612ff5c20d244c8f17e65f98a8a53ed4e94af1a1ae8417644e9b77d51515a0c"
 metafile = true
 
 [[files]]
